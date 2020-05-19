@@ -21,6 +21,9 @@ var PolicySelectedSectionService = (function () {
 })();
 
 var test = 1;
+
+
+
 angular.module('app').service('policySelectedSectionService', PolicySelectedSectionService);
 
 //hola que ase
